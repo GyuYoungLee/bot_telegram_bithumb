@@ -8,7 +8,7 @@
 5. 봇 동작 예시 
    - URL : t.me/bibi_bithumb_bot
    - 사용법 : /start
-   - ![이미지](./etc/20180719_112015)
+   - ![이미지](./etc/20180719_112015.jpg)
 
 ### Tech
 
@@ -23,4 +23,4 @@
 
 ### Commit desc
 
-- 
+- Add bithumb ticker api : git checkout cf4b113
